@@ -1,0 +1,2 @@
+confirm("Hacking your devices.. don't close yet. if you coles this it is very dangerous don't click on cancel please.")
+alert("thanks the hacked is loaded please contact to devloper to protect your devive name=?")
